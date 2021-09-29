@@ -4,7 +4,7 @@
   "description": "Welcome to COMP3104",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests created yet.\""
+    "test": "echo \"Warning: No test created yet.\""
   },
   "repository": {
     "type": "git",
